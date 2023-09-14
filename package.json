@@ -3,6 +3,10 @@
   "displayName": "MC Editor theme for js/ts projects",
   "description": "Dark theme in mcedit style",
   "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tediak/mcedit-vscode"
+  },
   "engines": {
     "vscode": "^1.81.0"
   },
