@@ -1,0 +1,29 @@
+{
+  "name": "mcedit",
+  "displayName": "MC Editor theme for js/ts projects",
+  "description": "Dark theme in mcedit style",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "publisher": "Ivan Yadzvinsky",
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark theme",
+    "mc",
+    "night",
+    "yellow"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "mcedit",
+        "uiTheme": "vs-dark",
+        "path": "./themes/mcedit-color-theme.json"
+      }
+    ]
+  }
+}
